@@ -1,2 +1,37 @@
-# Coffee--Shop-Sales-Data-Analytics-Project
-Coffee Shop Sales dashboard project using Python, Excel and PowerBI.
+# ☕ Coffee--Shop-Sales-Data-Analytics-Project
+## Project Overview:
+This project analyzes coffee shop sales data using Python, Excel, and PowerBI to identify sales trends,customer purchasing patterns,and business insights.
+
+## 🛠️ Tools used:
+- Python(Pandas,Numby)
+- Excel
+- Power BI
+- Git Hub
+
+## 🧼 Data Cleaning:
+- Handling missing values
+- Removed Duplicates
+- Corrected date-related columns
+- Prepare clean dataset for analysis
+
+## 📊 Dashboard KPIs:
+- Total Revenue
+- Total Orders
+- Total Items Sold
+- Average Transaction Value
+
+## 💡Key Insights
+- Identify top-selling products
+- Analyzed revenue trends
+- Compared payment methods
+- Tracked monthly sales performance
+
+## 📁 Project Files:
+- Uncleaned Dataset
+- Python data cleaning notebook
+- Cleaned Dataset
+- Power BI Dashboard
+- Project Presentation
+
+## 👩‍💻Author
+Navitha
