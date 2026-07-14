@@ -34,7 +34,7 @@ This project analyzes coffee shop sales data using Python, Excel, and PowerBI to
 - Project Presentation
 
 ## Dashboard Preview:
-![Dashboard](Dashboard .png)
+![Dashboard](Dashboard_.png)
 
 ## 👩‍💻Author
 Navitha
